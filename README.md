@@ -1,4 +1,4 @@
-# Olá! Me chamo Danilo Viana :love_you_gesture:
+# Olá! Me chamo Danilo Viana <a href="https://www.linkedin.com/in/danilo-viana-44b251221/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ## Fala pessoal!  Sou Desenvolvedor Full Stack Jr em formação. Let's go togethe!
 <div align="center">
   <a href="https://github.com/danilovviana">
@@ -17,6 +17,4 @@
 <div> 
   <a href = "mailto:danilovviana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-viana-44b251221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
 </div>
