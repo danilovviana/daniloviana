@@ -1,5 +1,5 @@
 # Olá! Me chamo Danilo Viana <a href="https://www.linkedin.com/in/danilo-viana-44b251221/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-## Fala pessoal!  Sou Desenvolvedor Full Stack Jr em formação. Let's go togethe!
+## Fala pessoal!  Sou Desenvolvedor Full Stack Jr em formação e aqui apresento um pouco da minha evolução nos estudos. Let's go togethe!
 <div align="center">
   <a href="https://github.com/danilovviana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilovviana&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
