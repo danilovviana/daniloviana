@@ -15,6 +15,8 @@
   ##
  
 <div> 
-  <a href = "mailto:danilovviana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilo-viana-44b251221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+[![Linkedin Badge](https://img.shields.io/badge/-danilo-viana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-viana-44b251221/)](https://www.linkedin.com/in/danilo-viana-44b251221/)
+[![Instagram Badge](https://img.shields.io/badge/-@danilovianadev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/danilovianadev/)](https://instagram.com/_jessicaalim)
+[![Gmail Badge](https://img.shields.io/badge/-danilovviana-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danilovviana@gmail.com)](mailto:danilovviana@gmail.com)
 </div>
