@@ -1,5 +1,5 @@
 # Olá! Me chamo Danilo Viana :love_you_gesture:
-## Fala pessoal! Me chamo Danilo Viana e sou desenvolvedor FullSatck em formação..
+## Fala pessoal!  Sou Desenvolvedor Full Stack Jr em formação, em transição de carreira. Let's go togethe!
 <div align="center">
   <a href="https://github.com/danilovviana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilovviana&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
