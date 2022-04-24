@@ -1,9 +1,9 @@
 # Olá! Me chamo Danilo Viana :love_you_gesture:
 ## Fala pessoal! Me chamo Danilo Viana e sou desenvolvedor FullSatck em formação..
 <div align="center">
-  <a href="https://github.com/daniloviana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloviana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloviana&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/danilovviana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilovviana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilovviana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="dam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
