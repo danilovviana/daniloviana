@@ -16,7 +16,7 @@
  
 <div> 
   
-[![Linkedin Badge](https://img.shields.io/badge/-danilo-viana-44b251221/blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-viana-44b251221/)](https://www.linkedin.com/danilo-viana-44b251221/)
+[![Linkedin Badge](https://img.shields.io/badge/-danilo-viana-44b251221/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-viana-44b251221/)](https://www.linkedin.com/in/danilo-viana-44b251221/)
 [![Instagram Badge](https://img.shields.io/badge/-@danilovianadev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/danilovianadev/)](https://instagram.com/_jessicaalim)
 [![Gmail Badge](https://img.shields.io/badge/-danilovviana-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danilovviana@gmail.com)](mailto:danilovviana@gmail.com)
 </div>
