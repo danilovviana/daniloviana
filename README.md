@@ -1,5 +1,5 @@
-# Olá! Me chamo Danilo Viana e sou Desenvolvedor Full Stack Jr em formação <a href="https://www.linkedin.com/in/danilo-viana-44b251221/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-### Atualmente estou desenvolvendo novas habilidades em ReactJS e NodeJs e aqui apresento um pouco da minha evolução nos estudos. 
+# Olá! Me chamo Danilo Viana e sou Desenvolvedor Full Stack Jr <a href="https://www.linkedin.com/in/danilo-viana-44b251221/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Atualmente estou desenvolvendo novas habilidades em NodeJs e ReactJS e aqui apresento um pouco da minha evolução nos estudos. 
 ### Estou à procura da minha primeira experiência profissional - Let's go togethe! :thumbsup:
 
 ##
