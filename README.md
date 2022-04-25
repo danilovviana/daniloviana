@@ -10,6 +10,7 @@
   <img align="center" alt="dam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="dam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node.js/node.js-original.svg">
 </div>
   
   ##
