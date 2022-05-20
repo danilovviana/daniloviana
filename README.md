@@ -1,31 +1,29 @@
-# Olá! Me chamo Danilo Viana e sou Desenvolvedor Full Stack Jr <a href="https://www.linkedin.com/in/danilo-viana-44b251221/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-### Atualmente estou desenvolvendo novas habilidades em NodeJs e ReactJS e aqui apresento um pouco da minha evolução nos estudos. 
-### Estou à procura da minha primeira experiência profissional - Let's go togethe! :thumbsup:
+## Oi! 👋 Me chamo Danilo Viana e sou Desenvolvedor Jr
+### Atualmente estou estudando NodeJs, PHP e ReactJs 
+### 🤔 Estou à procura de minha primeira experiência para ampliar minhas habilidades. 
+- Procurando um mentor, PLEASE! <a href="https://www.https://www.linkedin.com/in/danilovviana/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+<div>
+  <a href="https://github.com/danilovviana>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilovviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilovviana&layout=compact&langs_count=7&theme=dark "/>
+</div>
+<div style="display: inline_block "><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="CSS-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg ">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg ">
+  <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor ">
+</div>
 
 ##
 
-<div align="center">
-  <a href="https://github.com/danilovviana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilovviana&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilovviana&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="danilo-CSS-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="danilo-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="danilo-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="danilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div>
+  <a href="https://instagram.com/danilovianadev/ " target="_blank "><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white "   target="_blank "></a>
+  <a href = "mailto:danilovviana@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white " target="_blank "></a>
+  <a href="https://www.linkedin.com/danilovviana/ " target="_blank "><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white " target="_blank "></a>
 </div>
   
-  ##
- 
-<div> 
-  
-[![Linkedin Badge](https://img.shields.io/badge/-daniloviana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-viana-44b251221/)](https://www.linkedin.com/in/danilo-viana-44b251221/)
-[![Instagram Badge](https://img.shields.io/badge/-@danilovianadev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/danilovianadev/)](https://instagram.com/_jessicaalim)
-[![Gmail Badge](https://img.shields.io/badge/-danilovviana-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danilovviana@gmail.com)](mailto:danilovviana@gmail.com)
-</div>
-  
-  
+<!--
+**danilovviana/danilovviana** é um repositório ✨ importante pra mim_ ✨ porque este arquivo `README.md` aparece no meu perfil do Github e também no Linkedin.
