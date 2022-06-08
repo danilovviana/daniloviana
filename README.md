@@ -1,7 +1,6 @@
 ## Oi! 👋 Me chamo Danilo Viana e sou Desenvolvedor Jr
 ### Atualmente estou estudando NodeJs, PHP e ReactJs 
-### 🤔 Estou à procura de minha primeira experiência para ampliar minhas habilidades. 
-- Procurando um mentor, PLEASE! 
+### 🤔 Estou à procura de minha primeira experiência para ampliar minhas habilidades.  
 
 <div>
   <a href="https://github.com/danilovviana>
