@@ -1,7 +1,6 @@
-## Oi! 👋 Me chamo Danilo Viana e sou Desenvolvedor Frontend em evolução! ### Seguindo estudando... indo e voltando ao JavaScript sempre... avançando com os 'frameworks' e as 'libraries' JS. #### 🤔 Estou à procura de minha primeira experiência para ampliar
-ainda mais as minhas habilidades. 
-
-## 
+## Oi! 👋 Me chamo Danilo Viana e sou Desenvolvedor Frontend em evolução! 
+### Seguindo estudando... indo e voltando ao JavaScript sempre... avançando com os 'frameworks' e as 'libraries' JS. 
+#### 🤔 Estou à procura de minha primeira experiência para ampliarainda mais as minhas habilidades. 
 
 ✌️
 
