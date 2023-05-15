@@ -2,6 +2,10 @@
 ### Seguindo estudando... indo e voltando ao JavaScript sempre... avançando com os 'frameworks' e as 'libraries' JS. 
 #### 🤔 Estou à procura de minha primeira experiência para ampliar ainda mais as minhas habilidades.
 
+##
+
+✌️
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilovviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true "/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilovviana&layout=compact&langs_count=7&theme=dark "/>
