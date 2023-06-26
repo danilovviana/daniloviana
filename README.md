@@ -11,7 +11,8 @@
     <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
     <img align="center" alt="boostrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
-      <img align="center" alt="sass" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
+    <img align="center" alt="sass" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
+    <img align="center" alt="sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 </div>
 
 ##
